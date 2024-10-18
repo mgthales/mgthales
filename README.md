@@ -13,4 +13,4 @@
 </div>
 <br/>
 
-Fezendo faculdade de Analise e Desenvolvimento De Sistema.
+Fezendo faculdade de Análise e Desenvolvimento de Sistemas.
